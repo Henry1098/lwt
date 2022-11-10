@@ -33,9 +33,9 @@ For more information, please refer to [http://unlicense.org/].
 DB variables for XAMPP
 ***************************************************************/
 
-$server = "sql7.freemysqlhosting.net";
-$userid = "sql7558500";
-$passwd = "Viey4h8Uqs";
-$dbname = "sql7558500";
+$server = "sql.freedb.tech";
+$userid = "freedb_lwtroot";
+$passwd = "Vfm5CrKXBqDskw!";
+$dbname = "freedb_learningwithtexts";
 
 ?>
