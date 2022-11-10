@@ -35,7 +35,7 @@ DB variables for XAMPP
 
 $server = "sql.freedb.tech";
 $userid = "freedb_lwtroot";
-$passwd = "Vfm5CrKXBqDskw!";
+$passwd = "GT*PH7a9#Y9jg7B";
 $dbname = "freedb_learningwithtexts_";
 
 ?>
